@@ -66,5 +66,5 @@ def iterate_2(a,x):
       c = c + m
     count = count+1
 
-
+#call to method, feel free to change to try out other solution
 iterate_2(5,30)
